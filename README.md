@@ -1,4 +1,4 @@
 # DVSmoke
-The public smoke video dataset
+A diverse smoke video dataset
 
 Coming Soon
